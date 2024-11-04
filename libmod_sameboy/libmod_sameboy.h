@@ -1,8 +1,8 @@
 /*
- *  Copyright (C) 2016 Pablo Antonio Navarro Reyes <panreyes@panreyes.com>
+ *  Copyright (C) 2024 Pablo Antonio Navarro Reyes <panreyes@panreyes.com>
  *  Copyright (C) 2016 Joseba García Etxebarria <joseba.gar@gmail.com>
  *
- *  This file is part of PixTudio
+ *  This file is part of BennuGD2's Sameboy module
  *
  *  This software is provided 'as-is', without any express or implied
  *  warranty. In no event will the authors be held liable for any damages
